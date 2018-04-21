@@ -1,0 +1,15 @@
+[submodule "nodebotanist-hub"]
+	path = nodebotanist-hub
+	url = git@github.com:nodebotanist/nodebotanist-hub.git
+[submodule "skateboard"]
+	path = skateboard
+	url = git@github.com:nodebotanist/skateboard.git
+[submodule "longboard"]
+	path = longboard
+	url = git@github.com:nodebotanist/longboard.git
+[submodule "vest"]
+	path = vest
+	url = git@github.com:nodebotanist/vest.git
+[submodule "lab-coat"]
+	path = lab-coat
+	url = git@github.com:nodebotanist/lab-coat.git
